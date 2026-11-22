@@ -1,0 +1,21 @@
+{
+ "reasoning_qa": [
+  {"input": "A shop sells pens at 12 rupees each. Riya buys 7 pens and pays with a 100 rupee note. How much change does she get?", "answer": "16"},
+  {"input": "A train travels 60 km in 1.5 hours. What is its speed in km/h?", "answer": "40"},
+  {"input": "If 5 machines make 5 items in 5 minutes, how many minutes do 100 machines need to make 100 items?", "answer": "5"},
+  {"input": "Aman is twice as old as Bela. In 4 years the sum of their ages will be 38. How old is Bela now?", "answer": "10"},
+  {"input": "A book costs 250 rupees after a 20% discount. What was the original price?", "answer": "312.5"}
+ ],
+ "sentiment": [
+  {"input": "The battery life is amazing and the screen is gorgeous.", "answer": "positive"},
+  {"input": "It stopped working after two days and support never replied.", "answer": "negative"},
+  {"input": "Delivery was on time and packaging was good.", "answer": "positive"},
+  {"input": "Worst purchase ever, total waste of money.", "answer": "negative"},
+  {"input": "I love how easy it is to set up.", "answer": "positive"}
+ ],
+ "summarization": [
+  {"input": "Machine learning models learn patterns from data instead of being explicitly programmed. They are trained on examples, and their performance is measured on unseen data to check how well they generalize. Overfitting happens when a model memorizes training data and performs poorly on new data.", "answer": "Machine learning models learn patterns from data and are tested on unseen data; overfitting means memorizing training data and failing to generalize."},
+  {"input": "Cloud computing delivers computing services such as storage, servers and databases over the internet. Organizations pay only for what they use, which lowers upfront cost and lets them scale quickly when demand changes.", "answer": "Cloud computing delivers storage and servers over the internet on a pay-as-you-use basis, lowering cost and allowing quick scaling."},
+  {"input": "Version control systems like Git record changes to files over time. Developers can work on separate branches, merge their work, and return to earlier versions if something breaks, which makes team collaboration safer.", "answer": "Git records file changes so developers can use branches, merge work and restore earlier versions, making collaboration safer."}
+ ]
+}
