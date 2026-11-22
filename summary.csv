@@ -1,0 +1,13 @@
+task,technique,score,consistency,prompt_tokens,output_tokens,cost_tokens
+reasoning_qa,chain_of_thought,0.867,0.867,51.8,10.0,61.8
+reasoning_qa,few_shot,0.533,0.667,68.8,2.0,70.8
+reasoning_qa,role_based,0.733,0.8,47.8,2.0,49.8
+reasoning_qa,zero_shot,0.667,0.667,40.0,2.0,42.0
+sentiment,chain_of_thought,1.0,1.0,47.4,1.0,48.4
+sentiment,few_shot,1.0,1.0,59.2,1.0,60.2
+sentiment,role_based,1.0,1.0,43.4,1.0,44.4
+sentiment,zero_shot,1.0,1.0,35.6,1.0,36.6
+summarization,chain_of_thought,0.438,1.0,76.333,19.333,95.666
+summarization,few_shot,0.438,1.0,107.333,19.333,126.666
+summarization,role_based,0.438,1.0,72.333,19.333,91.666
+summarization,zero_shot,0.438,1.0,64.333,19.333,83.666

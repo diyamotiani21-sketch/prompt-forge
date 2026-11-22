@@ -1,0 +1,64 @@
+variant,run,prompt,answer,words,correctness,age_fit,structure,completeness,total
+1_vague,0,Tell me about photosynthesis.,This explanation is about photosynthesis.,5,2.0,1.0,1.0,2.0,6.0
+1_vague,1,Tell me about photosynthesis.,This explanation is about photosynthesis.,5,2.0,2.0,2.0,2.0,8.0
+1_vague,2,Tell me about photosynthesis.,This explanation is about photosynthesis.,5,1.0,1.0,1.0,1.0,4.0
+2_detailed,0,"Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens. Use simple words and avoid jargon.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,2.0,3.0,2.0,9.0
+2_detailed,1,"Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens. Use simple words and avoid jargon.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,2.0,2.0,3.0,9.0
+2_detailed,2,"Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens. Use simple words and avoid jargon.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,3.0,3.0,2.0,2.0,10.0
+3_role,0,"You are an experienced science teacher who loves making hard ideas easy. Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,3.0,2.0,2.0,9.0
+3_role,1,"You are an experienced science teacher who loves making hard ideas easy. Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,3.0,3.0,2.0,10.0
+3_role,2,"You are an experienced science teacher who loves making hard ideas easy. Explain photosynthesis to a Class 8 student. Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,2.0,2.0,3.0,9.0
+4_examples,0,"Explain photosynthesis to a Class 8 student. Use a short everyday analogy like this example style: 'A battery stores energy the way a water tank stores water.' Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,3.0,2.0,3.0,10.0
+4_examples,1,"Explain photosynthesis to a Class 8 student. Use a short everyday analogy like this example style: 'A battery stores energy the way a water tank stores water.' Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,3.0,2.0,3.0,10.0
+4_examples,2,"Explain photosynthesis to a Class 8 student. Use a short everyday analogy like this example style: 'A battery stores energy the way a water tank stores water.' Cover what it is, why it matters, the inputs and outputs, and where it happens.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,2.0,2.0,2.0,8.0
+5_format,0,"You are an experienced science teacher. Explain photosynthesis to a Class 8 student. Format: 1) a one-line definition, 2) three bullet points (inputs, outputs, where), 3) one everyday analogy, 4) the word equation, 5) one quiz question with its answer. Under 150 words.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,3.0,2.0,2.0,3.0,10.0
+5_format,1,"You are an experienced science teacher. Explain photosynthesis to a Class 8 student. Format: 1) a one-line definition, 2) three bullet points (inputs, outputs, where), 3) one everyday analogy, 4) the word equation, 5) one quiz question with its answer. Under 150 words.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,3.0,2.0,2.0,9.0
+5_format,2,"You are an experienced science teacher. Explain photosynthesis to a Class 8 student. Format: 1) a one-line definition, 2) three bullet points (inputs, outputs, where), 3) one everyday analogy, 4) the word equation, 5) one quiz question with its answer. Under 150 words.","This explanation is about photosynthesis.
+Key idea: Understand the basic meaning of photosynthesis.
+Important details: Explore the main concepts related to photosynthesis.
+Practical use: Learn how photosynthesis is relevant in real life.
+Audience: This explanation is intended for a Class 8 student.",42,2.0,2.0,2.0,2.0,8.0
